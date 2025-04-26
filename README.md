@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jaydeep.sardar.official@gmail.com**
   
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jaydeep-sardar&label=Profile%20views&color=0e75b6&style=flat" alt="Jaydeeo-sardar" /> </p>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jaydeep-sardar&label=Profile%20views&color=0e75b6&style=flat" alt="Jaydeep-sardar" /> </p>
 
 
 # 💻 Tech Stack:
