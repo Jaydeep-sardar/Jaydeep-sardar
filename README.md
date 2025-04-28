@@ -35,12 +35,12 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaydeep-sardar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" height="200"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Jaydeep-sardar&theme=dark&hide_border=false" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaydeep-sardar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" height="200"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Jaydeep-sardar&theme=radical&hide_border=false" alt="GitHub Streak" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep-sardar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep-sardar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 
