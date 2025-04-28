@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, This is J A Y D E E P</h1>
 <h3 align="center">Passionate Second-Year BCA Student | Enthusiastic about Technology & Coding | Eager to Make an Impact | Unleashing the power of algorithms and innovation | Living life on the edge of technology | 💻 Code, Coffee, and Creativity ☕️✨ | 🌟 Building digital bridges between dreams and reality 🌉 |</h3>
 
-
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🔭 I’m currently Studing **BCA**
 
 - 🌱 I’m currently learning **MERN STACK And DATA STRUCTURES AND ALGORITHM**
@@ -48,6 +48,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jaydeep-sardar&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with new people, so if you'd like to say hello, I would be delighted to meet you!</b> :)</em>
 
 
