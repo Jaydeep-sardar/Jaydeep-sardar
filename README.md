@@ -21,15 +21,9 @@
   <a href="https://www.linkedin.com/in/jaydeep-sardar-9a5ba9312/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jaydeep Sardar - LinkedIn" height="30" width="40" />
   </a>
-
-  <a href="https://www.hackerrank.com/profile/jaydeep_sardar_1" target="blank">
+   <a href="https://www.hackerrank.com/profile/jaydeep_sardar_1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Jaydeep Sardar - HackerRank" height="30" width="40" />
   </a>
-
-  <a href="https://leetcode.com/u/JAYDEEPSARDAR/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/LeetCode_logo_2021.svg/1200px-LeetCode_logo_2021.svg.png" alt="Jaydeep Sardar - LeetCode" height="30" width="40" />
-  </a>
-
   <a href="https://github.com/Jaydeep-sardar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jaydeep Sardar - GitHub" height="30" width="40" />
   </a>
