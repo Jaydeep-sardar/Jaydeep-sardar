@@ -27,7 +27,7 @@
   </a>
 
   <a href="https://leetcode.com/u/JAYDEEPSARDAR/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Jaydeep Sardar - LeetCode" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/LeetCode_logo_2021.svg/1200px-LeetCode_logo_2021.svg.png" alt="Jaydeep Sardar - LeetCode" height="30" width="40" />
   </a>
 
   <a href="https://github.com/Jaydeep-sardar" target="blank">
