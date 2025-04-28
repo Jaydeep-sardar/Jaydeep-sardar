@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sayan-duary-774319287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-duary-774319287" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaydeep-sardar-9a5ba9312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-duary-774319287" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100090693437373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100090693437373" height="30" width="40" /></a>
 <a href="https://instagram.com/sayan_ify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayan_ify" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@sayanduary4016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sayanduary4016" height="30" width="40" /></a>
