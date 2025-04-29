@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, This is J A Y D E E P</h1>
 <h3 align="center">Passionate Second-Year BCA Student | Enthusiastic about Technology & Coding | Eager to Make an Impact | Unleashing the power of algorithms and innovation | Living life on the edge of technology | 💻 Code, Coffee, and Creativity ☕️✨ | 🌟 Building digital bridges between dreams and reality 🌉 |</h3>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:</h1>
 - 🔭 I’m currently Studing **BCA**
 
 - 🌱 I’m currently learning **MERN STACK And DATA STRUCTURES AND ALGORITHM**
@@ -43,7 +43,7 @@
 </p>
 
 
-## 🏆 GitHub Trophies
+## <h1>🏆 GitHub Trophies:</h1>
 ![](https://github-profile-trophy.vercel.app/?username=Jaydeep-sardar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
