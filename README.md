@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/Jaydeep-sardar/Jaydeep-sardar/main/ProfileBanner.png)
 <h1 align="center">Hello 👋, This is J A Y D E E P</h1>
 <h3 align="center">Passionate Second-Year BCA Student | Enthusiastic about Technology & Coding | Eager to Make an Impact | Unleashing the power of algorithms and innovation | Living life on the edge of technology | 💻 Code, Coffee, and Creativity ☕️✨ | 🌟 Building digital bridges between dreams and reality 🌉 |</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
+
 
 ## <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:</h1>
 - 🔭 I’m currently Studing **BCA**
