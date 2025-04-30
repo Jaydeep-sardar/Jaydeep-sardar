@@ -4,6 +4,7 @@
 
 
 ## <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:</h1>
+<img align="right" alt="Coding" width="400" height="250" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 - 🔭 I’m currently Studing **BCA**
 
 - 🌱 I’m currently learning **JAVA And DATA STRUCTURES AND ALGORITHM**
