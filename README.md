@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Jaydeep-sardar/Jaydeep-sardar/main/Profile%20Banner.png
+![MasterHead](https://raw.githubusercontent.com/Jaydeep-sardar/Jaydeep-sardar/main/ProfileBanner.png)
 <h1 align="center">Hello 👋, This is J A Y D E E P</h1>
 <h3 align="center">Passionate Second-Year BCA Student | Enthusiastic about Technology & Coding | Eager to Make an Impact | Unleashing the power of algorithms and innovation | Living life on the edge of technology | 💻 Code, Coffee, and Creativity ☕️✨ | 🌟 Building digital bridges between dreams and reality 🌉 |</h3>
 
