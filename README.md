@@ -1,11 +1,11 @@
-
+![MasterHead](https://raw.githubusercontent.com/Jaydeep-sardar/Jaydeep-sardar/main/Profile%20Banner.png)
 <h1 align="center">Hello 👋, This is J A Y D E E P</h1>
 <h3 align="center">Passionate Second-Year BCA Student | Enthusiastic about Technology & Coding | Eager to Make an Impact | Unleashing the power of algorithms and innovation | Living life on the edge of technology | 💻 Code, Coffee, and Creativity ☕️✨ | 🌟 Building digital bridges between dreams and reality 🌉 |</h3>
 
 ## <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:</h1>
 - 🔭 I’m currently Studing **BCA**
 
-- 🌱 I’m currently learning **JAVA And DATA STRUCTURES AND ALGORITHM**
+- 🌱 I’m currently learning **MERN STACK And DATA STRUCTURES AND ALGORITHM**
 
 - 💬 Ask me about **C,C++,JAVASCRIPT,PYTHON**
 
@@ -25,12 +25,8 @@
 
   <a href="https://www.hackerrank.com/profile/jaydeep_sardar_1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Jaydeep Sardar - HackerRank" height="30" width="40" />
-  
   </a>
-  <a href="https://www.instagram.com/_._theuntouchedlight?igsh=MTRrYTdwZjlrdmM0Mw==" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="TheUntouchedLight - Instagram" height="30" width="40" />
-  </a>
-  
+
   <a href="https://github.com/Jaydeep-sardar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jaydeep Sardar - GitHub" height="30" width="40" />
   </a>
