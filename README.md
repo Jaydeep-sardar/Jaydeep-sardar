@@ -5,7 +5,7 @@
 ## <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me:</h1>
 - 🔭 I’m currently Studing **BCA**
 
-- 🌱 I’m currently learning **MERN STACK And DATA STRUCTURES AND ALGORITHM**
+- 🌱 I’m currently learning **JAVA And DATA STRUCTURES AND ALGORITHM**
 
 - 💬 Ask me about **C,C++,JAVASCRIPT,PYTHON**
 
