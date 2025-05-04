@@ -61,7 +61,7 @@
 
 
 
-## <h1>🏆 GitHub Trophies 👤:</h1>
+## <h1>🏆 GitHub Trophies👤:</h1>
 ![](https://github-profile-trophy.vercel.app/?username=Jaydeep-sardar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
