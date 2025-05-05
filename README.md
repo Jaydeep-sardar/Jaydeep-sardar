@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Studing **BCA**
 
-- 🌱 I’m currently learning **JAVA And DATA STRUCTURES AND ALGORITHM**
+- 🌱 I’m currently learning **JAVA And DATA STRUCTURES AND ALGORITHMS**
 
 - 💬 Ask me about **C,C++,JAVASCRIPT,PYTHON**
 
