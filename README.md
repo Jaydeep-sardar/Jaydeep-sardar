@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C,C++,JAVASCRIPT,PYTHON**
 
-- 📫 How to reach me **jaydeep.sardar.official@gmail.com**
+- 📫 How to reach me **jaydeepsardarmails@gmail.com**
 
   
 <p align="left">
