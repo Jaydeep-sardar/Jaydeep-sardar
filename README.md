@@ -15,7 +15,7 @@
 
   
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jaydeep-sardar&label=Profile%20views&color=0e75b6&style=flat" alt="Jaydeep-sardar" />
+  <img src="https://komarev.com/ghpvc/?username=Jaydeep-sardar&label=Profile%80views&color=0e75b6&style=flat" alt="Jaydeep-sardar" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Jaydeep-sardar?label=Followers&style=social" alt="GitHub followers"/>
 </p><br>
