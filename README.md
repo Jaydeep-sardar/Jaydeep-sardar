@@ -49,7 +49,7 @@
 
 
 
-# **<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> GitHub Stats:** 
+# **<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> GitHub Stats :** 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaydeep-sardar&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
