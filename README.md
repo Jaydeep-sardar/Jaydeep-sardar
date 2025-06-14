@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/Jaydeep-sardar/Jaydeep-sardar/main/ProfileBanner.png)
 <h1 align="center">Hello 👋, This is J A Y D E E P</h1>
-<h3 align="center"> Passionate Second-Year BCA Student | 🔍 Fascinated by Tech & Programming 💻| Driven to Create Meaningful Change 🌱 | Harnessing the Power of Algorithms & Innovation 🤖✨ | Thriving on the Cutting Edge of Technology 🚀 | 💻 Fueled by Code, Coffee & Creativity ☕💡 | 🌉 Turning Digital Dreams into Reality, One Line at a Time 🌟</h3>
+<h3 align="center"> Passionate Third-Year BCA Student | 🔍 Fascinated by Tech & Programming 💻| Driven to Create Meaningful Change 🌱 | Harnessing the Power of Algorithms & Innovation 🤖✨ | Thriving on the Cutting Edge of Technology 🚀 | 💻 Fueled by Code, Coffee & Creativity ☕💡 | 🌉 Turning Digital Dreams into Reality, One Line at a Time 🌟</h3>
 
 ## <h1><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me 👤:</h1>
 <img align="right" alt="Coding" width="400" height="250" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
