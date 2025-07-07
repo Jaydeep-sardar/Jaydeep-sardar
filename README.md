@@ -29,7 +29,7 @@
 ## <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Connect with me 🌐:</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaydeep-sardar-9a5ba9312/" target="_blank">
+  <a href="https://www.linkedin.com/in/jaydeep-sardar/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jaydeep Sardar - LinkedIn" height="30" width="40" />
   </a>
 
