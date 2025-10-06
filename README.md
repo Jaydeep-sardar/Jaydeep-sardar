@@ -32,7 +32,9 @@
   <a href="https://www.linkedin.com/in/jaydeep-sardar/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jaydeep Sardar - LinkedIn" height="30" width="40" />
   </a>
-
+<a href="https://discord.com/users/1272577564325707841" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jay_deep__17075 - Discord" height="30" width="40" />
+</a>
   <a href="https://www.hackerrank.com/profile/jaydeep_sardar_1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Jaydeep Sardar - HackerRank" height="30" width="40" />
   </a>
