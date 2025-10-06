@@ -32,6 +32,9 @@
   <a href="https://www.linkedin.com/in/jaydeep-sardar/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jaydeep Sardar - LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://leetcode.com/u/JAYDEEPSARDAR/" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Jaydeep Sardar - LeetCode" height="30" width="40" />
+</a>
 <a href="https://discord.com/users/1272577564325707841" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jay_deep__17075 - Discord" height="30" width="40" />
 </a>
