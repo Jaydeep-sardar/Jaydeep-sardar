@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JAVA And DATA STRUCTURES AND ALGORITHMS**
 
-- 💬 Ask me about  **C,C++,JAVASCRIPT,TYPESCRIPT,PYTHON,REACT NATIVE**
+- 💬 Ask me about  **C,C++,JAVA,JAVASCRIPT,TYPESCRIPT,PYTHON,REACT NATIVE**
 
 - 📫 How to reach me **jaydeepsardarmails@gmail.com**
 
