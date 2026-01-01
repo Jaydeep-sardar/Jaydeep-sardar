@@ -68,7 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep-sardar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-<!-- 🔥 Updated Contribution Graph -->
 ## <h1>⚡ Contribution Graph:</h1>
 
 ![Jaydeep's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaydeep-sardar&bg_color=0d1117&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true)
@@ -80,3 +79,22 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Jaydeep-sardar&icon=0&color=0)](https://visitcount.itsvg.in)
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with new people, so if you'd like to say hello, I would be delighted to meet you!</b> :)</em>
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jaydeep-sardar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Jaydeep-sardar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep-sardar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Jaydeep-sardar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Jaydeep-sardar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
