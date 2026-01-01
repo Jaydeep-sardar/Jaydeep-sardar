@@ -52,6 +52,11 @@
   </a>
 </p>
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 # **<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> GitHub Stats :** 
