@@ -80,14 +80,6 @@
 [![](https://visitcount.itsvg.in/api?id=Jaydeep-sardar&icon=0&color=0)](https://visitcount.itsvg.in)
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with new people, so if you'd like to say hello, I would be delighted to meet you!</b> :)</em>
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jaydeep-sardar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jaydeep-sardar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep-sardar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ## 🔝 Top Contributed Repo
 
 <div align="center">
