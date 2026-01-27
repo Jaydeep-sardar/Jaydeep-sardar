@@ -77,9 +77,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Jaydeep-sardar&theme=radical&no-frame=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jaydeep-sardar&icon=0&color=0)](https://visitcount.itsvg.in)
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with new people, so if you'd like to say hello, I would be delighted to meet you!</b> :)</em>
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
@@ -87,4 +84,8 @@
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=Jaydeep-sardar&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with new people, so if you'd like to say hello, I would be delighted to meet you!</b> :)</em>
+
 
