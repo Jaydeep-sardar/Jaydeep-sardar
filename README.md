@@ -80,14 +80,6 @@
 [![](https://visitcount.itsvg.in/api?id=Jaydeep-sardar&icon=0&color=0)](https://visitcount.itsvg.in)
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with new people, so if you'd like to say hello, I would be delighted to meet you!</b> :)</em>
 
-## 🔝 Top Contributed Repo
-
-<div align="center">
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Jaydeep-sardar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
